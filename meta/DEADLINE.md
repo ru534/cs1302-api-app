@@ -18,6 +18,7 @@ The app provides weather & temperature of the location inputted by the user. Use
     The app will return current temperature, weather, minimum temp, maximum temp, and what is feels like(temperature). The first API is geocoding api from API Ninja, which returns
     longitudes and latitues of the inputted city name(required) and country/state name(optional). The second API is API from OpenWeather, which takes in longitude and latitude and returns
     the weather at that location. The geocoding api takes in city name, returns longitude/latitude, and OpenWeather API takes in that result to return weather.
+    https://github.com/ru534/cs1302-api-app
 
 ## Part 2: New
 
